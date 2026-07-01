@@ -1,4 +1,5 @@
 /* styles.css */
+
 :root {
 	--deep-mocha: #483d3f;
 	--blue-bell: #058ed9;
@@ -20,4 +21,14 @@ h1 {
 	font-size: 4em;
 	border-top: 2px solid var(--deep-mocha);
 	border-bottom: 2px solid var(--deep-mocha);
+}
+
+.dateline {
+	font-size: 1.6em;
+	margin-bottom: 30px;
+}
+
+.article {
+	padding: 10px;
+	border-bottom: 2px double var(--deep-mocha);
 }
