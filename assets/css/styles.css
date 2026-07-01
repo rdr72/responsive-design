@@ -1,5 +1,4 @@
 /* styles.css */
-
 :root {
 	--deep-mocha: #483d3f;
 	--blue-bell: #058ed9;
@@ -13,4 +12,10 @@ body {
 	background-color: var(--eggshell);
 	font-weight: 400;
 	font-size: 1.2em;
+}
+
+h1 {
+	font-family: "Manufacturing Consent", system-ui;
+	color: var(--deep-mocha);
+	font-size: 4em;
 }
