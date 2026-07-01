@@ -1,9 +1,11 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+:root {
+	--deep-mocha: #483d3f;
+	--blue-bell: #058ed9;
+	--eggshell: #f4ebd9;
+	--grey-olive: #a39a92;
+	--ash-brown: #77685d;
+	font-family: "Tinos", serif;
 }
 
-.col, .col-4, .col-8 {
-	border: 1px solid red;
-}
