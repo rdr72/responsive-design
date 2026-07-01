@@ -10,4 +10,5 @@
 }
 body {
 	font-family: "Tinos", serif;
+	background-color: var(--eggshell);
 }
